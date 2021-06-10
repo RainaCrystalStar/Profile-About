@@ -2,8 +2,7 @@
 
 Hey there, I'm a digital artist and I'm very new to the coding world. But I'm willing to learn new things as I stay and learn about GitHub. My aim is to understand webhooks and trying to sync it to my discord server. I will be mostly using Github with my discord server thou webhook.
 
-I also make comics based on my own original art work. I do however have a discord server which is private and only
-Used for fans and friendships.
+I also make comics based on my own original art work. I love making new chapter and storylines so maybe this site might be some use in that area. I wouldn't say I'm a games developer, but who knows what is around the corner. 
 
 I will be definitely making codes in my coding file that I've made on my repository listed outside of my
 Demain. 
