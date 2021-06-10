@@ -1,6 +1,6 @@
 <a href="https://fontmeme.com/github-font/"><img src="https://fontmeme.com/permalink/210610/9087378e8a65cc38eef7b62c6f0fd714.png" alt="github-font" border="0"></a>
 
-Hey there, I'm a digital artist who is new to the coding world. But I'm willing to learn new things as I stay and learn about GitHub. My aim is to understand webhooks and trying to sync it to discord thou the webhook.
+Hey there, I'm a digital artist and I'm very new to the coding world. But I'm willing to learn new things as I stay and learn about GitHub. My aim is to understand webhooks and trying to sync it to discord thou the webhook.
 
 I also make comics based on my own original art work. I do however have a discord server which is private and only
 Used for fans and friendships.
