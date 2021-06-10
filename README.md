@@ -8,4 +8,4 @@ Used for fans and friendships.
 I will be definitely making codes in my coding file that I've made on my repository listed outside of my
 Demain. 
 
-📝 <a href="https://fontmeme.com/github-font/"><img src="https://fontmeme.com/permalink/210610/fa3f9096bf57dbaef39db8bd91bfdfb5.png" alt="github-font" border="0"></a>
+📢 <a href="https://fontmeme.com/github-font/"><img src="https://fontmeme.com/permalink/210610/fa3f9096bf57dbaef39db8bd91bfdfb5.png" alt="github-font" border="0"></a>
