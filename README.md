@@ -8,4 +8,4 @@ Used for fans and friendships.
 I will be definitely making codes in my coding file that I've made on my repository listed outside of my
 Demain. 
 
-📝 If you have any questions or concerns please inbox me at anytime.
+📝 <𝗕>If you have any questions or concerns please inbox me at anytime.</𝗯>
