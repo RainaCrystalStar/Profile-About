@@ -1,7 +1,7 @@
 <a href="https://fontmeme.com/fonts/the-dark-titan-font/"><img src="https://fontmeme.com/permalink/210622/e7a49dc9f6813941b3034beb231ae757.png" alt="the-dark-titan-font" border="0"></a>
 
 >
-> <a href="https://fontmeme.com/fonts/vintage-glitch-font/"><img src="https://fontmeme.com/permalink/210623/ed9696539054aabb8ec8cc80e2c9ea00.png" alt="vintage-glitch-font" border="0"></a>
+> <a href="https://fontmeme.com/fonts/sunday-rully-font/"><img src="https://fontmeme.com/permalink/210623/69ec062e5fabbc6a738fd21ec4573d11.png" alt="sunday-rully-font" border="0"></a>
 >
 Hey there, I'm a digital artist and I'm very new to the coding world. But I'm willing to learn new things as I stay and learn about GitHub. My aim is to understand webhooks And using Github with my discord server thou webhook.
 
